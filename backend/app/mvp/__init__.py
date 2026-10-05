@@ -1,0 +1,3 @@
+"""
+MVP Core Module Package
+"""
